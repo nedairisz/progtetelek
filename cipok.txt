@@ -1,0 +1,4 @@
+márka, méret
+Nike, 42
+Adidas, 41
+Adidas, 45
