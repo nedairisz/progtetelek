@@ -1,5 +1,5 @@
 import math
-
+#eldontes egy
 
 n = int(input("\nszám: "))
 n=int(n)
