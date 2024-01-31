@@ -14,4 +14,4 @@ else:
 if prim ==True:
     print("prím")
 else:
-    print("nem rím")
+    print("nem prím")
